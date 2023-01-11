@@ -85,15 +85,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=andresblz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
-<br/>  
-
-
-
 ### Support me  
 <div align="center"><a href="https://www.buymeacoffee.com/andr3kt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a></div>  
 
