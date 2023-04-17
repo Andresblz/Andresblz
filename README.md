@@ -1,28 +1,16 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
 ### <div align="center">I'm Andrés, a student of Computer Engineering at the University of Salamanca. 👨‍💻 passionate about UI/UX design and frontend development. 🎨</div>  
-  
 
 - 🌱 I’m currently learning React.JS  
-  
-
-  
-  
-
 - ⚡ Fun fact: I use tabs over spaces  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -33,8 +21,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -49,8 +35,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Other Skills  
 <div align="center">  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
@@ -63,11 +47,9 @@
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
 <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
 </div>
-
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -82,10 +64,11 @@
 </a>  
 </div>  
   
-
 <br/>  
 
 ### Support me  
 <div align="center"><a href="https://www.buymeacoffee.com/andr3kt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a></div>  
 
 <br />
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vxdc2n43yjkpxxb52mb7j7r7b4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31vxdc2n43yjkpxxb52mb7j7r7b4&redirect=true)
