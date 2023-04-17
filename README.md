@@ -11,6 +11,7 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
+  
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -51,6 +52,10 @@
 
 <br/>  
 
+<div style="text-align:center">
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vxdc2n43yjkpxxb52mb7j7r7b4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31vxdc2n43yjkpxxb52mb7j7r7b4&redirect=true)
+ </div>
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/andresblz" target="_blank">
@@ -68,7 +73,3 @@
 
 ### Support me  
 <div align="center"><a href="https://www.buymeacoffee.com/andr3kt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a></div>  
-
-<br />
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vxdc2n43yjkpxxb52mb7j7r7b4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31vxdc2n43yjkpxxb52mb7j7r7b4&redirect=true)
