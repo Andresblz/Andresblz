@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif" align="center" style="width: 100%" />
+<img src="https://cdnb.20m.es/sites/73/2015/09/tumblr_n7zukidWwU1qze3hdo1_r2_500.gif" align="center" style="width: 150%" />
 </div>  
 
 ### <div align="center">I'm Andrés, a student of Computer Engineering at the University of Salamanca. 👨‍💻 passionate about UI/UX design and frontend development. 🎨</div>  
