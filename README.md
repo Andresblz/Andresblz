@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Andrés, a student of Computer Engineering at the University of Salamanca. 👨‍💻 passionate about UI/UX design and frontend development. 🎨</div>  
 
-- 🌱 I’m currently learning React.JS  
+- 🌱 I’m currently learning ReactJS and Astro
 - ⚡ Fun fact: I use tabs over spaces  
   
 <br/>  
