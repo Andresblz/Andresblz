@@ -95,11 +95,12 @@
     </a>  
 </div>
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31vxdc2n43yjkpxxb52mb7j7r7b4&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vxdc2n43yjkpxxb52mb7j7r7b4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Perfil de Spotify" style="display: block; margin: 0 auto;">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vxdc2n43yjkpxxb52mb7j7r7b4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Perfil de Spotify">
     </a>
 </div>
+
 
 <br/>
 
