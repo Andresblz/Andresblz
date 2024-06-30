@@ -71,6 +71,10 @@
         <img src="https://cdn.dribbble.com/userupload/13252802/file/original-5a6e4cbe7387695b3e8489e06deb0f23.png?resize=752x" alt="Login page redesign (concept) - Diaweb (USAL)" style="max-width: 100%; height: auto; width: 500px;" />
         <p>Login page redesign (concept) - Diaweb (USAL)</p>
     </div>
+    <div style="margin: 20px;">
+        <img src="https://cdn.dribbble.com/userupload/14866831/file/original-597d753d9934d9aa65f63dfe7712f942.png?resize=752x" alt="Home page (concept) - Diaweb (USAL)" style="max-width: 100%; height: auto; width: 500px;" />
+        <p>Home page (concept) - Diaweb (USAL)</p>
+    </div>
 </div>
 
 
