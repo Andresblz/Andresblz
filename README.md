@@ -1,103 +1,103 @@
 <div align="center">
-    <img src="https://wallpaperaccess.com/full/2825710.gif" align="center" style="width: 750px" />
-</div>
 
-### <div align="center">I'm Andrés, Product Designer at <a href="https://wuolah.com" target="_blank">Wuolah</a> 🎨 & Computer Engineer 👨‍💻</div>
-
-- 💼 Currently working as **Product Designer** at [Wuolah](https://wuolah.com)
-- 🌱 Always learning about **UI/UX**, **Design Systems**, and **Frontend Development**
-- ⚡ Fun fact: I still use **tabs over spaces**
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg" />
+  <img src="assets/hero.svg" alt="andresblz — Product Engineer at Wuolah. I design interfaces, then I build them." width="100%" />
+</picture>
 
 <br/>
 
-## My Skill Set
+<a href="https://dribbble.com/"><img src="assets/link-dribbble.svg" alt="Dribbble" height="44" /></a>
+<a href="https://linkedin.com/in/andresblz"><img src="assets/link-linkedin.svg" alt="LinkedIn" height="44" /></a>
+<a href="https://twitter.com/andr3kt"><img src="assets/link-x.svg" alt="X" height="44" /></a>
+<a href="https://wuolah.com"><img src="assets/link-wuolah.svg" alt="Wuolah" height="44" /></a>
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://astro.build/" target="_blank"><img style="margin: 10px" src="https://astro.build/assets/press/astro-icon-dark.svg" alt="Astro" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
-</td>
-<td valign="top" width="33%">
-
-### Backend
-
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-</div>
-</td>
-<td valign="top" width="33%">
-
-### Design & Other Skills
-
-<div align="center">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-</div>
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Featured Projects
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <div style="margin: 20px;">
-        <a href="https://jornadas.secusal.net" target="_blank">
-            <img src="https://cdn.dribbble.com/userupload/13100305/file/original-3b02598706516a81ead2541487c351f1.png?resize=1024x768" alt="Criminology and Cybersecurity Conferences (SECUSAL) website" style="max-width: 100%; height: auto; width: 500px;" />
-            <p>Criminology and Cybersecurity Conferences (SECUSAL) website</p>
-        </a>
-    </div>
-    <div style="margin: 20px;">
-        <img src="https://cdn.dribbble.com/userupload/13252802/file/original-5a6e4cbe7387695b3e8489e06deb0f23.png?resize=752x" alt="Login page redesign (concept) - Diaweb (USAL)" style="max-width: 100%; height: auto; width: 500px;" />
-        <p>Login page redesign (concept) - Diaweb (USAL)</p>
-    </div>
-    <div style="margin: 20px;">
-        <img src="https://cdn.dribbble.com/userupload/14866831/file/original-597d753d9934d9aa65f63dfe7712f942.png?resize=752x" alt="Home page (concept) - Diaweb (USAL)" style="max-width: 100%; height: auto; width: 500px;" />
-        <p>Home page (concept) - Diaweb (USAL)</p>
-    </div>
 </div>
 
 <br/>
 
-## Connect with me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-work-dark.svg" />
+  <img src="assets/sec-work-light.svg" alt="01 / Selected work — Designed. Built. Shipped." width="600" />
+</picture>
 
 <div align="center">
-    <a href="https://github.com/andresblz" target="_blank">
-        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://twitter.com/andr3kt" target="_blank">
-        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://linkedin.com/in/andresblz" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-    </a>  
-</div>
 
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31vxdc2n43yjkpxxb52mb7j7r7b4&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vxdc2n43yjkpxxb52mb7j7r7b4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Perfil de Spotify">
-    </a>
+<a href="https://jornadas.secusal.net">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/work-secusal-mobile.svg" />
+    <img src="assets/work-secusal.svg" alt="SECUSAL — Criminology & Cybersecurity Conferences website" width="100%" />
+  </picture>
+</a>
+
+<a href="https://dribbble.com/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/diaweb-stack.svg" />
+    <img src="assets/diaweb-row.svg" alt="Diaweb — Login redesign and Home page concepts" width="100%" />
+  </picture>
+</a>
+
 </div>
 
 <br/>
 
-### Support me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-how-dark.svg" />
+  <img src="assets/sec-how-light.svg" alt="02 / How I work — Three ideas behind everything" width="600" />
+</picture>
 
-<div align="center"><a href="https://www.buymeacoffee.com/andr3kt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a></div>
+<div align="center">
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/how-stack.svg" />
+  <img src="assets/how-row.svg" alt="Product first: understand the problem before drawing screens. Systems, not screens: reusable components and tokens. Design is shipping: prototype in Figma, then ship it." width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-tools-dark.svg" />
+  <img src="assets/sec-tools-light.svg" alt="03 / Toolbox — The tools I reach for" width="600" />
+</picture>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/toolbox-mobile.svg" />
+  <img src="assets/toolbox.svg" alt="Design: Figma, Photoshop, Illustrator, After Effects, Blender. Code: React, Astro, JavaScript, HTML, CSS. Also tinkered with: Python, PHP, Bash, C, C#." width="100%" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-now-dark.svg" />
+  <img src="assets/sec-now-light.svg" alt="04 / Right now — What I'm up to lately" width="600" />
+</picture>
+
+<div align="center">
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/now-stack.svg" />
+  <img src="assets/now-row.svg" alt="Building: product at Wuolah. Learning: design systems and frontend." width="100%" />
+</picture>
+
+<br/>
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31vxdc2n43yjkpxxb52mb7j7r7b4&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vxdc2n43yjkpxxb52mb7j7r7b4&cover_image=true&theme=default&show_offline=true&background_color=0e0e17&interchange=false&bar_color=a78bfa&bar_color_cover=false" alt="Spotify — now playing" width="450" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
+  <img src="assets/footer-light.svg" alt="Tabs > spaces. No debate." width="600" />
+</picture>
+
+<a href="https://www.buymeacoffee.com/andr3kt"><img src="assets/link-coffee.svg" alt="Buy me a coffee" height="44" /></a>
+
+</div>
